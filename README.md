@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shamil VM</h1>
+<h1 align="center">Hi 👋, I'm Shamil Vm</h1>
 <h3 align="center">Full-Stack Developer | Turning ideas into Experience</h3>
 
 <p align="center">
